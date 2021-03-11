@@ -1,0 +1,16 @@
+__pycache__/
+.Python
+*.log
+local_settings.py
+db.sqlite3
+.python-version
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+venvHMS/
+ven_checkout/
